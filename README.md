@@ -17,41 +17,41 @@
 <details>
 <summary>Translations:</summary>
 
-- [اردو - Urdu](translations/README-ur.md)
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
 - [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
 - [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Marathi](translations/README-mr.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](translations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
 - [বাংলা - Bangla](translations/README-bn.md)
-
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>Translations in progress:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
 <div align="center">
@@ -306,6 +306,7 @@ You may not need it, but here are some sites for learning a new language:
 - [Codewars](http://www.codewars.com)
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
+- [Programiz PRO Community Challenges)](https://programiz.pro/)
 
 ### For your Coding Interview
 
@@ -569,7 +570,7 @@ But don't forget to do coding problems from above while you learn!
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 Well, that's about enough of that.
 
@@ -1199,7 +1200,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
     - [Videos](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
@@ -1246,6 +1247,7 @@ Mock Interviews:
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 - [Meetapro: Mock interviews with top FAANG interviewers](https://meetapro.com/?utm_source=ciu) - an Airbnb-style mock interview/coaching platform.
 - [Hello Interview: Mock Interviews with Expert Coaches and AI](https://www.hellointerview.com/?utm_source=ciu) - interview directly with AI or with FAANG staff engineers and managers.
+- [Codemia: Practice system design problems with AI or community solutions and feedback](https://codemia.io/?utm_source=ciu) - Practice system design problems via AI practice tool. Share your solution with the community to get human feedback as well.
 
 ## Be thinking of for when the interview comes
 
